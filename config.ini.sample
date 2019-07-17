@@ -1,0 +1,2 @@
+url  = http://<YOUR_HUE_IP>/
+path = /api/<hue_username>/lights/1/state
